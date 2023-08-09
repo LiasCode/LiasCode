@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 Some of my personal projects:
-- ![Chat Website](https://mochat.onrender.com)
-- ![Cristalyx - Minimal Library Express Like](https://github.com/LiasCode/cristalyx)
-- ![Electron + Typescript + Vite + Solidjs Template](https://github.com/LiasCode/electron-vite-ts-solidjs)
-- ![Typescript + Express Template](https://github.com/LiasCode/node-typescript-template)
-- ![My Neovim Config](https://github.com/LiasCode/my-neovim-config)
+- <a href="https://mochat.onrender.com" color="red">Chat Website</a>
+- <a href="https://github.com/LiasCode/cristalyx">Cristalyx - Minimal Library Express Like</a>
+- <a href="https://github.com/LiasCode/electron-vite-ts-solidjs">Electron + Typescript + Vite + Solidjs Template</a>
+- <a href="https://github.com/LiasCode/node-typescript-template">Typescript + Express Template</a>
+- <a href="https://github.com/LiasCode/my-neovim-config">My Neovim Config</a>
 
 #### 📫 How to reach me: liasraul00@gmail.com
 <!--
