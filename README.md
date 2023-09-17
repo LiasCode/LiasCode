@@ -19,7 +19,7 @@
 
 - **Developer Tools:** Git, GitHub, ESLint, Prettier.
 
-- **Assistants:** GPT3.5.
+- **Code Assistant:** GPT3.5.
 
 - **Deployment:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
