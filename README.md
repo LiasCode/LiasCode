@@ -5,7 +5,7 @@
     a passionate developer with experience in various programming languages and frameworks. Continuously learning and researching how these technologies work behind the scenes, removing the magic     and increasing my understanding to try to get the most out of it. 
 </p>
 
-## 🚀 Technologies and Tools
+## 🚀 Tecnologies and Tools
 
 - **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
 
