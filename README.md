@@ -1,27 +1,33 @@
-# Hi there 👋, I'm LiasCode
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there! 👋
 
-### 🔭 Some of my personal projects:
-- <a href="https://mochat.onrender.com" color="red">Chat Website</a>
-- <a href="https://github.com/LiasCode/cristalyx">Cristalyx - Minimal Library Express Like</a>
-- <a href="https://github.com/LiasCode/electron-vite-ts-solidjs">Electron + Typescript + Vite + Solidjs Template</a>
-- <a href="https://github.com/LiasCode/node-typescript-template">Typescript + Express Template</a>
-- <a href="https://github.com/LiasCode/my-neovim-config">My Neovim Config</a>
-
-#### 📫 How to reach me: liasraul00@gmail.com
-<!--
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<hr />
-
-<p align="center">
-    <a href="https://lias-code.pages.dev">Website</a>
+<p>
+    <strong><i>I'm LiasCode</i></strong>, 
+    a passionate developer with experience in various programming languages and frameworks. Continuously learning and researching how these technologies work behind the scenes, removing the magic     and increasing my understanding to try to get the most out of it. 
 </p>
+
+## 🚀 Technologies and Tools
+
+- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
+
+- **Frameworks and Libraries:** React, Solid, Astro, Sass, Chart.js, Styled Components, Node.js, Express.js, Socket.io, Next.js.
+
+- **Databases:** MongoDB, SQLite, PostgreSQL, Supabase.
+
+- **Desktop Applications:** Electron.
+
+- **Operating Systems:** Ubuntu, Fedora, Windows.
+
+- **Developer Tools:** Git, GitHub, ESLint, Prettier.
+
+- **Assistants:** GPT3.5.
+
+- **Deployment:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
+
+## 🧠📚 I'm interested in delving into:
+- ⚡ Improving performance, both by using new programming languages like C, Rust, Go, and Zig, and by applying good practices and appropriate data structures.
+- 🏛️ Implementing clean architectures whenever necessary to increase code sustainability and scalability.
+- 🔒 Incorporating robust security measures to protect against threats and vulnerabilities, ensuring the integrity and confidentiality of data.
+
+*¡Feel free to explore my repositories for interesting projects and contributions! Don't forget to leave a ⭐️ if you find something cool!*.
+
+Let's connect and collaborate. Reach me at [liasraul00@gmail.com](mailto:liasraul00@gmail)
