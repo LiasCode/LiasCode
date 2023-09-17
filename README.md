@@ -5,7 +5,7 @@
     a passionate developer with experience in various programming languages and frameworks. Continuously learning and researching how these technologies work behind the scenes, removing the magic     and increasing my understanding to try to get the most out of it. 
 </p>
 
-## 🚀 Tecnologies and Tools
+## 🚀 Technologies and Tools
 
 - **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
 
@@ -21,7 +21,7 @@
 
 - **Code Assistant:** GPT3.5.
 
-- **Deployment:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
+- **Deployment/Hostings:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
 ## 🧠📚 I'm interested in delving into:
 - ⚡ Improving performance, both by using new programming languages like C, Rust, Go, and Zig, and by applying good practices and appropriate data structures.
