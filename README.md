@@ -1,4 +1,4 @@
-# Hi there! 👋, I'm LiasCode
+# Hi👋, I'm LiasCode
 
 ## 🚀 My Technologies and Tools
 
