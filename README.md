@@ -1,6 +1,8 @@
 # Hi👋, I'm LiasCode
 
-## 🚀 My Technologies and Tools
+***JavaScript FullStack Developer***
+
+### 🚀 My Technologies and Tools
 
 - **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
 
