@@ -20,7 +20,7 @@
 
 - **Deployment/Hostings:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
-## 🧠📚 I'm interested in delving into:
+### 🧠📚 I'm interested in delving into:
 - ⚡ Improving performance, both by using new programming languages like C, Rust, Go, and Zig, and by applying good practices and appropriate data structures.
 - 🏛️ Implementing clean architectures whenever necessary to increase code sustainability and scalability.
 - 🔒 Incorporating robust security measures to protect against threats and vulnerabilities, ensuring the integrity and confidentiality of data.
