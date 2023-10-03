@@ -6,7 +6,7 @@
 
 - **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
 
-- **Frameworks and Libraries:** React, Solid, Astro, Sass, Tailwindcss, Express.js, Socket.io, Next.js, Mongoose,.
+- **Frameworks and Libraries:** React, Solid, Astro, Sass, Tailwindcss, Express.js, Socket.io, Next.js, Mongoose, Zod.
 
 - **Databases:** MongoDB, SQLite, PostgreSQL, Supabase.
 
