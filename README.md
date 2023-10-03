@@ -6,15 +6,15 @@
 
 - **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
 
-- **Frameworks and Libraries:** React, Solid, Astro, Sass, Chart.js, Styled Components, Node.js, Express.js, Socket.io, Next.js.
+- **Frameworks and Libraries:** React, Solid, Astro, Sass, Tailwindcss, Express.js, Socket.io, Next.js, Mongoose,.
 
 - **Databases:** MongoDB, SQLite, PostgreSQL, Supabase.
 
-- **Desktop Applications:** Electron.
+- **Desktop Applications:** Electron, Tauri.
 
 - **Operating Systems:** Ubuntu, Fedora, Windows.
 
-- **Developer Tools:** Git, GitHub, ESLint, Prettier.
+- **Developer Tools:** Git, GitHub, ESLint, Prettier, Vim/Neovim, Vitejs.
 
 - **Code Assistant:** GPT3.5.
 
