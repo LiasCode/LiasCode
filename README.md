@@ -4,7 +4,7 @@
 
 ### 🚀 My Technologies and Tools
 
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, SQL.
+- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, Sql.
 
 - **Frameworks and Libraries:** React, Solid, Astro, Sass, Tailwindcss, Express.js, Socket.io, Next.js, Mongoose, Zod.
 
@@ -14,9 +14,7 @@
 
 - **Operating Systems:** Ubuntu, Fedora, Windows.
 
-- **Developer Tools:** Git, GitHub, ESLint, Prettier, Vim/Neovim, Vitejs.
-
-- **Code Assistant:** GPT3.5.
+- **Developer Tools:** Git, GitHub, Vim/Neovim, VSCode, CodeiumIA.
 
 - **Deployment/Hostings:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
