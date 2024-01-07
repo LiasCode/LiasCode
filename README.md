@@ -14,7 +14,7 @@
 
 - **Operating Systems:** Ubuntu, Fedora, Windows.
 
-- **Developer Tools:** Git, GitHub, Vim/Neovim, VSCode, CodeiumIA.
+- **Developer Tools:** Git, GitHub, Vim/Neovim, VSCode, CodeiumIA, Copilot.
 
 - **Deployment/Hostings:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
 
