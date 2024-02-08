@@ -23,4 +23,4 @@
 - 🏛️ Implementing clean architectures whenever necessary to increase code sustainability and scalability.
 - 🔒 Incorporating robust security measures to protect against threats and vulnerabilities, ensuring the integrity and confidentiality of data.
 
-Let's connect and collaborate. Reach me at [liasraul00@gmail.com](mailto:liasraul00@gmail)
+Let's connect and collaborate. Reach me at [liascode.dev@gmail.com](mailto:liascode.dev@gmail.com)
