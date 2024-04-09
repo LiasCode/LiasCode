@@ -1,22 +1,20 @@
-### 🚀 My Technologies and Tools
+### 🚀 Herramientas y Tecnologías que uso:
 
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, C, Lua, Sql.
+- **Lenguajes de programación**: JavaScript/TypeScript, HTML, CSS, Go, SQL.
 
-- **Frameworks and Libraries:** React, Solid, Astro, Sass, Tailwindcss, Express.js, Socket.io, Next.js, Mongoose, Zod.
+- **Frameworks:** React, Solid, Astro, Sass, Tailwindcss, Express, Socket.io, Next.js, Zod, Fiber, Electron.
 
-- **Databases:** MongoDB, SQLite, PostgreSQL, Supabase.
+- **Gestores de bases de datos:** MongoDB, SQLite, Postgre, Mysql.
 
-- **Desktop Applications:** Electron, Tauri.
+- **Sistema Operativo:** Ubuntu.
 
-- **Operating Systems:** Ubuntu, Fedora, Windows.
+- **Herramientas de desarrollo** Git, GitHub, Neovim, VSCode, Bruno, DBeaver.
 
-- **Developer Tools:** Git, GitHub, Vim/Neovim, VSCode, CodeiumIA, Copilot.
+- **Deployment/Hostings:** Cloudflare, Vercel, Render, Digital Ocean.
 
-- **Deployment/Hostings:** Cloudflare, Vercel, Render, MongoDB Atlas, Supabase.
+### 🧠📚 Constantemente profundizando en:
+- ⚡ Mejorar el rendimiento, tanto mediante el uso de nuevos lenguajes de programación como C, Rust, Go y Zig, como aplicando buenas prácticas y estructuras de datos adecuadas.
+- 🏛️ Implementar arquitecturas limpias siempre que sea necesario para aumentar la sostenibilidad y escalabilidad del código.
+- 🔒 Incorporar medidas de seguridad robustas para proteger contra amenazas y vulnerabilidades, garantizando la integridad y confidencialidad de los datos.
 
-### 🧠📚 I'm interested in delving into:
-- ⚡ Improving performance, both by using new programming languages like C, Rust, Go, and Zig, and by applying good practices and appropriate data structures.
-- 🏛️ Implementing clean architectures whenever necessary to increase code sustainability and scalability.
-- 🔒 Incorporating robust security measures to protect against threats and vulnerabilities, ensuring the integrity and confidentiality of data.
-
-Let's connect and collaborate. Reach me at [liascode.dev@gmail.com](mailto:liascode.dev@gmail.com)
+Si está interesado en contactarme, mi correo es: [liascode.dev@gmail.com](mailto:liascode.dev@gmail.com)
