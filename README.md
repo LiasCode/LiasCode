@@ -1,20 +1,21 @@
-### 🚀 Herramientas y Tecnologías que uso:
+## Hola!!
 
-- **Lenguajes de programación**: JavaScript/TypeScript, HTML, CSS, Go, SQL.
+### 🚀Herramientas y Tecnologías que uso:
 
-- **Frameworks:** React, Solid, Astro, Sass, Tailwindcss, Express, Socket.io, Next.js, Zod, Fiber, Electron.
+- Lenguajes de programación: **JavaScript/TypeScript, HTML, CSS, Go, SQL**.
 
-- **Gestores de bases de datos:** MongoDB, SQLite, Postgre, Mysql.
+- Frameworks: **React, Solid, Astro, Sass, Tailwindcss, Express, Socket.io, Next.js, Zod, Fiber, Electron**.
 
-- **Sistema Operativo:** Ubuntu.
+- Gestores de bases de datos: **MongoDB, SQLite, Postgres, Mysql**.
 
-- **Herramientas de desarrollo** Git, GitHub, Neovim, VSCode, Bruno, DBeaver.
+- Sistema Operativo: **Ubuntu**.
 
-- **Deployment/Hostings:** Cloudflare, Vercel, Render, Digital Ocean.
+- Deployment/Hostings: **Cloudflare, Vercel, Render, Digital Ocean**.
 
-### 🧠📚 Constantemente profundizando en:
-- ⚡ Mejorar el rendimiento, tanto mediante el uso de nuevos lenguajes de programación como C, Rust, Go y Zig, como aplicando buenas prácticas y estructuras de datos adecuadas.
-- 🏛️ Implementar arquitecturas limpias siempre que sea necesario para aumentar la sostenibilidad y escalabilidad del código.
-- 🔒 Incorporar medidas de seguridad robustas para proteger contra amenazas y vulnerabilidades, garantizando la integridad y confidencialidad de los datos.
+### 📚Mis Estudios:
+ - Mayormente autodidacta.
+ - [Universidad de las Ciencias Informáticas de Cuba](https://www.uci.cu)
+ - [Codely](https://codely.com)
+ - [Platzi](https://platzi.com)
 
 Si está interesado en contactarme, mi correo es: [liascode.dev@gmail.com](mailto:liascode.dev@gmail.com)
