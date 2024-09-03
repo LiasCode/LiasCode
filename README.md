@@ -4,13 +4,13 @@
 
 - Lenguajes de programación: **JavaScript / TypeScript, HTML, CSS, Go, SQL**.
 
-- Frameworks: **React, Solid, Astro, Sass, Tailwindcss, Express, Socket.io, Next.js, Zod, Fiber, Electron**.
+- Frameworks: **React, Solid, Astro, Preact, Sass, Tailwindcss, Express, Socket.io, Next.js, Zod, Fiber, Electron, Wails**.
 
-- Gestores de bases de datos: **MongoDB, SQLite, Postgres, Mysql**.
+- Gestores de bases de datos: **SQLite, Postgres, Mysql, MongoDB**.
 
 - Sistema Operativo: **Ubuntu**.
 
-- Deployment / Hostings: **Cloudflare, Vercel, Render, Digital Ocean**.
+- Deployment / Hostings: **Cloudflare, Digital Ocean, Render, Vercel**.
 
 ### Mis Estudios:
  - Mayormente autodidacta.
